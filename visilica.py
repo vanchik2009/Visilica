@@ -33,7 +33,8 @@ canvas.place(x=0, y=0)
 #Используем канвас как полотно для вывода изображения различных фигур, текстов
 window.geometry('1200x800')
 
+start_pos_man()
+start_pos_alphabet()
 window.mainloop()
 #Запуск окна игры mainloop
 
-start_pos_man()
